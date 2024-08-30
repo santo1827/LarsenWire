@@ -1,0 +1,146 @@
+<mxfile host="65bd71144e">
+    <diagram id="Rw0FkQ77VSPXqtVfRVoa" name="Process Flow - Fronts Page">
+        <mxGraphModel dx="977" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="360" as="sourcePoint"/>
+                        <mxPoint x="760" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="480" as="sourcePoint"/>
+                        <mxPoint x="760" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="599" as="sourcePoint"/>
+                        <mxPoint x="760" y="599" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Client Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="320" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Server Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="450" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Data Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="569" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Fronts Page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="290" width="50" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="fIv5fllms1tbNxrvGajD" name="UI Mockup - Fronts Page">
+        <mxGraphModel dx="1416" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-1" value="&lt;h1&gt;&lt;u&gt;UI Requirements for Fronts Page&lt;/u&gt;&lt;/h1&gt;&lt;div&gt;&lt;u&gt;Features&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- User can select the type of front. E.g. 450 x 450, 600 x 600, 750 x 600&lt;/div&gt;&lt;div&gt;- User can select the door needed. E.g. 450 x 450, 600 x 600, 750 x 600&lt;/div&gt;&lt;div&gt;- User is able to type in the desired amount of fronts/doors they want to make and get the amount of wires of each thickness, length, metal type.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Future Features&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Being able to calculate the amount of welds for number of fronts for statistics&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="46" y="53" width="766" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="46" y="243" width="289" height="529" as="geometry"/>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+                    <mxGeometry x="49" y="374" width="283" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=#F1F1F1;strokeColor=#999999;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-6">
+                    <mxGeometry x="1" width="20" height="100" relative="1" as="geometry">
+                        <mxPoint x="-20" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-8" value="" style="fillColor=#C1C1C1;strokeColor=none;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-7">
+                    <mxGeometry width="16" height="45" relative="1" as="geometry">
+                        <mxPoint x="2" y="20" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-9" value="" style="shape=triangle;direction=north;fillColor=#C1C1C1;strokeColor=none;perimeter=none;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-7">
+                    <mxGeometry width="10" height="5" relative="1" as="geometry">
+                        <mxPoint x="5" y="7.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-10" value="" style="shape=triangle;direction=south;fillColor=#505050;strokeColor=none;perimeter=none;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-7">
+                    <mxGeometry y="1" width="10" height="5" relative="1" as="geometry">
+                        <mxPoint x="5" y="-12.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-11" value="Open this select menu" style="fillColor=#C8C8C8;strokeColor=none;align=left;fontSize=14;fontColor=#323232;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-6">
+                    <mxGeometry width="252" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-12" value="Fronts" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#495057;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-6">
+                    <mxGeometry width="760" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-13" value="Doors" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#495057;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-6">
+                    <mxGeometry width="760" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="50" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-14" value="Shelves" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#495057;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-6">
+                    <mxGeometry width="760" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="70" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-15" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="504" width="283" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-16" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=#F1F1F1;strokeColor=#999999;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-15">
+                    <mxGeometry x="1" width="20" height="100" relative="1" as="geometry">
+                        <mxPoint x="-20" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-17" value="" style="fillColor=#C1C1C1;strokeColor=none;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-16">
+                    <mxGeometry width="16" height="45" relative="1" as="geometry">
+                        <mxPoint x="2" y="20" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-18" value="" style="shape=triangle;direction=north;fillColor=#C1C1C1;strokeColor=none;perimeter=none;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-16">
+                    <mxGeometry width="10" height="5" relative="1" as="geometry">
+                        <mxPoint x="5" y="7.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-19" value="" style="shape=triangle;direction=south;fillColor=#505050;strokeColor=none;perimeter=none;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-16">
+                    <mxGeometry y="1" width="10" height="5" relative="1" as="geometry">
+                        <mxPoint x="5" y="-12.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-20" value="Open this select menu" style="fillColor=#C8C8C8;strokeColor=none;align=left;fontSize=14;fontColor=#323232;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-15">
+                    <mxGeometry width="252" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-21" value="450 x 450" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#495057;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-15">
+                    <mxGeometry width="760" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-22" value="600 x 600" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#495057;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-15">
+                    <mxGeometry width="760" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="50" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-23" value="750 x 600" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#495057;" vertex="1" parent="NiCBDMoOe1uQxg8TlULa-15">
+                    <mxGeometry width="760" height="20" relative="1" as="geometry">
+                        <mxPoint x="10" y="70" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-24" value="Calculate" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+                    <mxGeometry x="150.5" y="685" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="NiCBDMoOe1uQxg8TlULa-25" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Wire Calculator&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="74" y="263" width="228" height="91" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

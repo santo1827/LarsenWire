@@ -1,0 +1,7 @@
+POST http://localhost:5000/getwirecount
+Content-Type: application/json
+
+{
+    frontdimensions: [450, 450],
+    numberoffronts: 5,
+}
